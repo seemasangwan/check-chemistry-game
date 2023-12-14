@@ -1,0 +1,76 @@
+*
+{
+    background-color: beige;
+    margin: 0px;
+    padding: 0px;
+
+}
+#heading
+{
+    text-align: center;
+    margin :20px;
+    border: 5px solid green;
+    display: block;
+    padding: 10px;
+    font-family: cursive;
+    width:50%;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: cyan;
+}
+#myname
+{
+    text-align: center;
+    margin :20px;
+    border: 5px solid green;
+    display: block;
+    padding: 10px;
+    font-family: cursive;
+    width: 50%;
+    justify-content: center;
+    margin-left: 28%;
+    margin-right: 28%;
+    background-color: rgb(205, 234, 234);
+    font-size: large;
+    border-radius: 20px;
+    display: flexbox;
+}
+#othername
+{
+    text-align: center;
+    margin :20px;
+    border: 5px solid green;
+    display: block;
+    padding: 10px;
+    font-family: cursive;
+    width: 50%;
+    justify-content: center;
+    margin-left: 28%;
+    margin-right: 28%;
+    background-color: rgb(205, 234, 234);
+    font-size: large;
+    border-radius: 20px;
+    display: flexbox;
+}
+.inputt
+{
+    background-color: cadetblue;
+    border: 10px solid black;
+    width:70%;
+    margin-left:15%;
+    margin-left:15%;
+    margin-top:15px;
+}
+button{
+    margin:50px;
+    margin-left:40%;
+    margin-right:40%;
+    width:20%;
+    border-radius: 20px;
+    border: 5px solid red;
+    background-color: darkseagreen;
+    padding:20px;
+    font-size: large;
+    font-family: cursive;
+}
