@@ -19,7 +19,7 @@ var check=(name1,name2)=>
 {
     let res=common(name1,name2);
     let len=name1.length+name2.length-2*res;
-    let mychemistry=["friends","Sisters","Lover","Enimies"];
+    let mychemistry=["friends","Sisters","Lover","Enimies","Brother"];
     while(mychemistry.length>1)
     {
        let remover=len%(mychemistry.length)-1;
